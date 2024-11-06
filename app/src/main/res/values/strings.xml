@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laboratoire2</string>
+    <string name="msg">Cycle de vie d une activité et intentions</string>
+    <string name="btn">APPEL À FINISH</string>
+    <string name="check">Sauvgarder et restorer la couleur actuelle</string>
+    <string name="btn_exp">APPUYER POUR LANCER UN ACTIVITE EN UTILISANT UNE INTENTION EXPLICITE</string>
+    <string name="btn_res">APPUYER POUR LANCER UN ACTIVITE (EXPLICITE) QUI RETOURNE UN RESULTAT</string>
+    <string name="res">Resultat</string>
+    <string name="title_activity_destinataire_res">title_activity_destinataire_res</string>
+    <string name="action1">ACTION 1</string>
+    <string name="action2">ACTION 2</string>
+    <string name="action3">ACTION_VIEW</string>
+    <string name="s3">Activité Destinataire implicite</string>
+    <string name="title_activity_destinataire_implicit">title_activity_destinataire_implicit</string>
+
+
+</resources>
